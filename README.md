@@ -2,7 +2,7 @@
 
 This project is a simple end-to-end CI/CD example for Databricks.
 
-## What it includes
+### What it includes
 
 - A Declarative Automation Bundles configuration in `databricks.yml`
 - A demo Lakeflow Job definition in `resources/job.yml`
