@@ -41,3 +41,5 @@ From the project root, run:
 - Bundle validation succeeds.
 - The bundle deploys to the Databricks workspace.
 - The demo job completes successfully.
+
+<!-- ci retrigger -->
